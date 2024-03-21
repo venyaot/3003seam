@@ -1,3 +1,4 @@
+//ok
 public class Result {
     String name;
 
