@@ -4,19 +4,7 @@ public class Result {
     int RE;
     int SDA;
     int SQAT;
-    int SEAM;
-    int FM;
-    int HCI;
 
-
-
-void mkDASHABI()
-
-
-    double getAverageMark()
-    {
-	RE = 1;
-	SDA = 1;
 	SQAT = 1;
 	SEAM = 1;
 	FM = 1
@@ -94,7 +82,7 @@ void mkDASHABI()
         System.out.println("Testing");
     }
 
-//LFJ 123
+
   
     void LawBing(){
         System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
