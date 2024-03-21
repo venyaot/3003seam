@@ -5,14 +5,6 @@ public class Result {
     int SDA;
     int SQAT;
 
-	SQAT = 1;
-	SEAM = 1;
-	FM = 1
-        return (RE+SDA+SQAT+SEAM+FM)/4;
-    }
-
-  
-    int getTotal()
     {
         return (RE+SDA+SQAT+SEAM+FM);
     }
